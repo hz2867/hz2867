@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Hongyi Zou
+- 👋 Hi, I’m Hongyi Zou form Mainland China
 - 👀 I’m interested in investment banking and management consulting 
 - 🌱 I’m currently learning python to do text analysis and data visualization
-- 💞️ I’m looking to collaborate on 
-- 📫 feel free to contact me via E-mail: hz2867@columbia.edu
+- 📫 feel free to contact me via E-mail: hz2867@columbia.edu or hongyi.zou@duke.edu
 - 😄 Pronouns: He,Him,His
 - ⚡ Fun fact: One fun fact about me is I have a identical twins bro who look exactly like me!
 
